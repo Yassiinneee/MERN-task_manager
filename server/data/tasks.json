@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "1",
+    "title": "Review MERN Architecture",
+    "description": "Verify controllers, models, and routes separation in Express.",
+    "status": "In Progress",
+    "priority": "High",
+    "category": "Development",
+    "dueDate": "2026-07-12T18:08:37.865Z",
+    "createdAt": "2026-07-11T18:08:37.867Z",
+    "updatedAt": "2026-07-11T18:21:37.369Z"
+  },
+  {
+    "_id": "2",
+    "title": "Build React Task Components",
+    "description": "Create TaskForm and TaskList components with Tailwind CSS styling.",
+    "status": "Completed",
+    "priority": "Medium",
+    "category": "Frontend",
+    "dueDate": "2026-07-13T18:08:37.867Z",
+    "createdAt": "2026-07-11T18:08:37.867Z",
+    "updatedAt": "2026-07-11T18:17:48.729Z"
+  },
+  {
+    "_id": "3",
+    "title": "Test REST API Endpoints",
+    "description": "Verify GET, POST, PUT, and DELETE routes for tasks.",
+    "status": "Pending",
+    "priority": "Low",
+    "category": "Testing",
+    "dueDate": "2026-07-14T18:08:37.867Z",
+    "createdAt": "2026-07-11T18:08:37.867Z"
+  }
+]
