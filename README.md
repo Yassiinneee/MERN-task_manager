@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Express.js-Backend-black?style=for-the-badge&logo=express">
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js">
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Microsoft Azure" width="80">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white">
 
 <br>
 
