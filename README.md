@@ -8,7 +8,10 @@
 <img src="https://img.shields.io/badge/Express.js-Backend-black?style=for-the-badge&logo=express">
 <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react">
 <img src="https://img.shields.io/badge/Node.js-Runtime-339933?style=for-the-badge&logo=node.js">
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" alt="Microsoft Azure" width="80">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="Microsoft Azure" width="80">
+
+<br>
+
 
 
 A responsive full-stack task management application that enables users to create, manage, update, and organize daily tasks efficiently using the **MERN Stack (MongoDB, Express.js, React, and Node.js)**.
