@@ -569,6 +569,7 @@ Software & Network Engineering
 - Express.js
 - REST APIs
 - Database Design
+- Deployment using Cloud (Microsoft-Azure)
 
 ---
 
